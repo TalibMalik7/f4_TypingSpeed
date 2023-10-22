@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/f4_TypingSpeed/static/js/main.bd789953.js",
+    "main.js": "/f4_TypingSpeed/static/js/main.70fe4535.js",
     "index.html": "/f4_TypingSpeed/index.html",
-    "main.bd789953.js.map": "/f4_TypingSpeed/static/js/main.bd789953.js.map"
+    "main.70fe4535.js.map": "/f4_TypingSpeed/static/js/main.70fe4535.js.map"
   },
   "entrypoints": [
-    "static/js/main.bd789953.js"
+    "static/js/main.70fe4535.js"
   ]
 }
