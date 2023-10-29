@@ -1,15 +1,19 @@
 
 import Header from "./components/Header"
 import Footer from "./components/Footer";
-import Body from "./components/Body";
+import TypingBox from "./components/TypingBox";
+
+import TypingSpeedApp from "./components/TypingSpeedApp";
 
 
 function App() {
   return (
     <div className="App">
-     Hello World
+    
      < Header/>
-     < Body/>
+     <TypingBox/>
+     
+     <TypingSpeedApp/>
      <Footer/>
     </div>
   );
